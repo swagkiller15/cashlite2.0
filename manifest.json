@@ -1,0 +1,17 @@
+{
+  "name": "CashLite",
+  "short_name": "CashLite",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f2f2f7",
+  "theme_color": "#00c244",
+  "description": "A simple Cash App-style demo for iPhone",
+  "icons": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/Green_circle.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ]
+}
